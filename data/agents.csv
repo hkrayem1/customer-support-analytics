@@ -1,0 +1,65 @@
+agent_id,agent_name,team,hire_date,employment_status
+A001,Theo Young,Billing,2023-09-29,Active
+A002,Theo Hall,Technical,2019-09-22,Active
+A003,Oliver Hall,Billing,2020-03-23,Active
+A004,Yusuf Ahmed,Billing,2023-02-11,On Leave
+A005,Grace Taylor,Core Support,2024-07-21,On Leave
+A006,Sofia Thomas,Escalations,2020-03-12,Active
+A007,Ben Wilson,Billing,2021-02-06,Active
+A008,Noah Thomas,Billing,2025-06-23,Active
+A009,Ben Hill,Core Support,2025-12-05,Active
+A010,Amelia Wilson,Technical,2023-01-25,Active
+A011,Chloe Khan,Technical,2022-02-17,Active
+A012,Sam Clark,Escalations,2021-06-05,Active
+A013,Nadia Clark,Technical,2023-04-16,Active
+A014,Ava King,Billing,2023-02-19,On Leave
+A015,Isla Hall,Technical,2021-01-23,Active
+A016,Layla Green,Core Support,2019-02-28,On Leave
+A017,Ben King,Technical,2020-01-23,On Leave
+A018,Ava Thomas,Core Support,2025-09-17,Active
+A019,Ava Baker,Billing,2021-12-05,Active
+A020,Sofia Brown,Technical,2022-05-18,On Leave
+A021,Sofia Taylor,Billing,2022-04-09,Active
+A022,Isla Khan,Core Support,2024-06-24,Active
+A023,Yusuf Wright,Escalations,2019-06-16,Active
+A024,Daniel Lewis,Escalations,2019-07-31,Active
+A025,Hannah Brown,Billing,2020-12-06,On Leave
+A026,Nadia Walker,Core Support,2022-05-29,Active
+A027,Nadia Brown,Technical,2023-09-13,On Leave
+A028,Adam King,Core Support,2022-06-08,On Leave
+A029,Adam Thomas,Core Support,2022-02-02,Active
+A030,George Evans,Billing,2025-07-26,Active
+A031,Maya Ahmed,Billing,2020-02-16,Active
+A032,Daniel Young,Escalations,2023-01-01,Active
+A033,Grace Evans,Core Support,2022-10-18,Active
+A034,Ben Khan,Technical,2022-04-25,Active
+A035,Sofia Patel,Technical,2024-08-27,On Leave
+A036,Sofia Turner,Core Support,2020-11-13,On Leave
+A037,Leo Scott,Core Support,2025-09-04,Active
+A038,Adam King,Technical,2021-04-27,On Leave
+A039,Adam Clark,Core Support,2022-10-25,Active
+A040,Yusuf Turner,Billing,2022-08-24,Active
+A041,Noah Green,Technical,2024-12-12,On Leave
+A042,Noah Wright,Billing,2022-01-27,On Leave
+A043,Yusuf Thomas,Billing,2020-12-28,Active
+A044,Hannah Clark,Core Support,2019-02-25,On Leave
+A045,Oliver Khan,Billing,2021-07-18,Active
+A046,Ava Scott,Billing,2024-10-13,Active
+A047,Isla Lewis,Technical,2019-01-26,Active
+A048,Hannah Wilson,Core Support,2025-04-10,Active
+A049,Hannah Ahmed,Billing,2022-10-20,Active
+A050,Chloe Hall,Core Support,2019-12-25,Active
+A051,Layla Brown,Core Support,2021-02-11,Active
+A052,Adam Hill,Core Support,2022-11-17,Active
+A053,Amelia Green,Billing,2021-03-18,Active
+A054,Adam Wright,Billing,2019-10-05,Active
+A055,Daniel Thomas,Billing,2023-08-30,On Leave
+A056,Sofia Young,Billing,2023-09-15,Active
+A057,Isla Hall,Technical,2019-10-31,Active
+A058,Oliver Young,Technical,2020-12-20,Active
+A059,Grace Khan,Core Support,2020-09-15,Active
+A060,Yusuf Thomas,Core Support,2023-08-14,Active
+A061,Yusuf Taylor,Billing,2024-02-11,Active
+A062,George Lewis,Technical,2024-02-02,On Leave
+A063,George Ahmed,Technical,2025-07-28,On Leave
+A064,Daniel Patel,Billing,2024-05-19,Active
