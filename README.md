@@ -8,6 +8,14 @@ Using a synthetic dataset of **52,480 support tickets** covering January 2025 to
 
 The project combines SQL-based data preparation and exploratory analysis with an interactive, three-page Power BI dashboard designed to support operational decision-making.
 
+### Dataset
+
+This project uses five fully synthetic datasets generated specifically for portfolio and educational purposes. All customer records, agent identities and support interactions are fictional and do not represent actual organisations or individuals.
+
+The raw ticket dataset contains 52,518 records, including 38 duplicate records identified during data preparation. Following deduplication, 52,480 unique tickets were retained for analysis.
+
+The original datasets are available in the `data/` folder to support transparency and reproducibility.
+
 ## Tools & Technologies
 
 - **SQL Server / SSMS:** Data cleaning, validation, joins, CTEs, window functions and exploratory analysis
