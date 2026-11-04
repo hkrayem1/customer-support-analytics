@@ -1,0 +1,1 @@
+EXEC sp_helptext 'dbo.vw_ticket_analysis';
