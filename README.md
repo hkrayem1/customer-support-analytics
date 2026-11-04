@@ -8,7 +8,7 @@ Using a synthetic dataset of **52,480 support tickets** covering January 2025 to
 
 The project combines SQL-based data preparation and exploratory analysis with an interactive, three-page Power BI dashboard designed to support operational decision-making.
 
-### Dataset
+## Dataset
 
 This project uses five fully synthetic datasets generated specifically for portfolio and educational purposes. All customer records, agent identities and support interactions are fictional and do not represent actual organisations or individuals.
 
@@ -148,16 +148,22 @@ Based on the analysis, the following actions would be worth investigating in a r
 
 ```text
 customer-support-analytics/
+├── data/
+│   ├── agents.csv
+│   ├── customers.csv
+│   ├── satisfaction.csv
+│   ├── sla_targets.csv
+│   └── tickets.csv
+├── powerbi/
+│   └── Customer_Support_Analytics.pbix
+├── screenshots/
+│   ├── 01_executive_overview.png.png
+│   ├── 02_sla_analysis.png.png
+│   └── 03_team_performance.png.png
 ├── sql/
 │   ├── 01_data_cleaning.sql
 │   ├── 02_exploratory_analysis.sql
 │   └── 03_ticket_analysis_view.sql
-├── powerbi/
-│   └── Customer_Support_Analytics.pbix
-├── screenshots/
-│   ├── 01_executive_overview.png
-│   ├── 02_sla_analysis.png
-│   └── 03_team_performance.png
 └── README.md
 ```
 
