@@ -19,19 +19,19 @@ The project combines SQL-based data preparation and exploratory analysis with an
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](screenshots/01_executive_overview.png.png)
 
 Provides a high-level view of support operations, including ticket volumes, response and resolution SLA compliance, unresolved tickets and customer satisfaction.
 
 ### 2. SLA & Root Cause Analysis
 
-![SLA Analysis](screenshots/02_sla_analysis.png)
+![SLA Analysis](screenshots/02_sla_analysis.png.png)
 
 Explores performance differences across ticket categories and support teams, including SLA compliance comparisons, breach volumes and monthly trends.
 
 ### 3. Team Performance & Customer Satisfaction
 
-![Team Performance](screenshots/03_team_performance.png)
+![Team Performance](screenshots/03_team_performance.png.png)
 
 Compares team workloads and customer satisfaction, and investigates the association between SLA compliance and CSAT scores.
 
